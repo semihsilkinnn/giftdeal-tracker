@@ -1,0 +1,36 @@
+name: GiftDeal Automatic Discovery
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4
+
+      - name: Discover deals
+        run: python collector.py
+
+      - name: Save updated deals
+        run: |
+          git config user.name "giftdeal-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/deals.json
+          git diff --cached --quiet || git commit -m "Update discovered deals"
+          git push
