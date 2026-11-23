@@ -1,8 +1,683 @@
 {
-  "updated": "2026-11-23T01:46:20.501010+00:00",
+  "updated": "2026-11-23T12:55:21.858365+00:00",
   "successful_feeds": 2,
   "feeds_total": 2,
   "deals": [
+    {
+      "title": "SanDisk’s ‘world’s smallest’ 256GB USB-C flash drive is just $50 for Black Friday",
+      "url": "https://9to5toys.com/2026/11/20/sandisk-worlds-smallest-256gb-usb-c-flash-drive-is-just-50-for-black-friday/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 50.0,
+      "published": "Fri, 20 Nov 2026 19:03:29 +0000",
+      "seen": "2026-11-23T12:55:21.858269+00:00"
+    },
+    {
+      "title": "Amazon Black Friday protein deals: Save up to 35% on GHOST, CLIF, ALLMAX, more (deals from $8)",
+      "url": "https://9to5toys.com/2026/11/20/protein-powder-and-bar-deals/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 8.0,
+      "published": "Fri, 20 Nov 2026 20:11:44 +0000",
+      "seen": "2026-11-23T12:55:21.858238+00:00"
+    },
+    {
+      "title": "SANDMARC Black Friday now live: Best prices ever on new iPhone Duo/18 Pro leather cases, more",
+      "url": "https://9to5toys.com/2026/11/20/sandmarc-black-friday-live-best-iphone-duo-18-pro-leather-case/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": null,
+      "published": "Fri, 20 Nov 2026 20:30:16 +0000",
+      "seen": "2026-11-23T12:55:21.858201+00:00"
+    },
+    {
+      "title": "Travel up to 130 miles with Velotric’s Nomad 2 all-terrain e-bike + extra battery and mirror down at $1,799 ($740 savings)",
+      "url": "https://9to5toys.com/2026/11/20/velotric-nomad-2-all-terrain-e-bike-extra-battery-and-mirror/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 1799.0,
+      "published": "Fri, 20 Nov 2026 21:26:14 +0000",
+      "seen": "2026-11-23T12:55:21.858169+00:00"
+    },
+    {
+      "title": "Add Ninja appliances to your kitchen arsenal with up to 50% Black Friday savings – all starting from $70",
+      "url": "https://9to5toys.com/2026/11/20/ninja-appliances-black-friday/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 70.0,
+      "published": "Fri, 20 Nov 2026 22:03:17 +0000",
+      "seen": "2026-11-23T12:55:21.858137+00:00"
+    },
+    {
+      "title": "Bring Gemini into your daily workflow as a solopreneur with 20% off your first 6 months of Google Workspace",
+      "url": "https://9to5toys.com/2026/11/20/gemini-daily-workflow-google-workspace-six-month-plans-20-off/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": null,
+      "published": "Sat, 21 Nov 2026 00:00:00 +0000",
+      "seen": "2026-11-23T12:55:21.858107+00:00"
+    },
+    {
+      "title": "LEGO Insiders Weekend 2026 is live! Browse promotions and gift ideas from Star Wars, Icons, Disney, DC, Lord of the Rings, more",
+      "url": "https://9to5toys.com/2026/11/20/lego-insiders-weekend-2026/",
+      "source": "9to5Toys",
+      "category": "Oyuncak",
+      "price": null,
+      "published": "Sat, 21 Nov 2026 05:00:00 +0000",
+      "seen": "2026-11-23T12:55:21.858072+00:00"
+    },
+    {
+      "title": "Apple’s new OLED iPad mini hits all-time low pricing for Black Friday at $669",
+      "url": "https://9to5toys.com/2026/11/21/apple-new-oled-ipad-mini-best-black-friday-deal/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 669.0,
+      "published": "Sat, 21 Nov 2026 10:35:35 +0000",
+      "seen": "2026-11-23T12:55:21.858037+00:00"
+    },
+    {
+      "title": "New Amazon Android Alexa Tablets just hit Black Friday all-time lows from $120 (Up to $160 off)",
+      "url": "https://9to5toys.com/2026/11/21/new-amazon-android-alexa-tablets-black-friday-deals-2/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 120.0,
+      "published": "Sat, 21 Nov 2026 10:54:55 +0000",
+      "seen": "2026-11-23T12:55:21.858017+00:00"
+    },
+    {
+      "title": "Amazon 2026 Black Friday Week – Day 3: New all-time lows, OLED iPad mini, Alexa Tablets, Doorbusters, more",
+      "url": "https://9to5toys.com/2026/11/21/amazon-2026-black-friday-week-day-3-new-deals/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": null,
+      "published": "Sat, 21 Nov 2026 11:16:01 +0000",
+      "seen": "2026-11-23T12:55:21.857994+00:00"
+    },
+    {
+      "title": "Black Friday prices just dropped even lower on new Echo Time, Studio, Camera, more (Up to $100 off)",
+      "url": "https://9to5toys.com/2026/11/21/black-friday-prices-drop-lower-new-echo-time-studio-camera/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 100.0,
+      "published": "Sat, 21 Nov 2026 11:48:24 +0000",
+      "seen": "2026-11-23T12:55:21.857957+00:00"
+    },
+    {
+      "title": "9to5Toys Steals Weekly – Grade 5 titanium Apple Watch band, color smart hygrometers, modern dish drying rack, more",
+      "url": "https://9to5toys.com/2026/11/21/steals-weekly-nov-21/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": null,
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "seen": "2026-11-23T12:55:21.857931+00:00"
+    },
+    {
+      "title": "Oura Ring 5: Gift the world’s most gorgeous ultra-smart health ring at $100 off",
+      "url": "https://9to5toys.com/2026/11/21/oura-ring-5-gift-worlds-best-smart-health-ring/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 100.0,
+      "published": "Sat, 21 Nov 2026 13:13:49 +0000",
+      "seen": "2026-11-23T12:55:21.857916+00:00"
+    },
+    {
+      "title": "9to5Toys Fashion Weekly – Nike early Black Friday, tomtoc 40L travel backpack $72, UPF 50+ shirts $12.50, more",
+      "url": "https://9to5toys.com/2026/11/21/fashion-weekly-nov-21/",
+      "source": "9to5Toys",
+      "category": "Oyuncak",
+      "price": 72.0,
+      "published": "Sat, 21 Nov 2026 13:15:00 +0000",
+      "seen": "2026-11-23T12:55:21.857885+00:00"
+    },
+    {
+      "title": "Get a MacBook Neo under the tree at $649 Black Friday pricing (Best deal in months)",
+      "url": "https://9to5toys.com/2026/11/21/most-affordable-current-macbook-under-tree-gift-black-friday-neo/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 649.0,
+      "published": "Sat, 21 Nov 2026 13:17:00 +0000",
+      "seen": "2026-11-23T12:55:21.857868+00:00"
+    },
+    {
+      "title": "Best Buy serves up Black Friday Nespresso deals from $89 (Up to $91 off)",
+      "url": "https://9to5toys.com/2026/11/21/best-buy-nespresso-black-friday/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 89.0,
+      "published": "Sat, 21 Nov 2026 13:45:00 +0000",
+      "seen": "2026-11-23T12:55:21.857855+00:00"
+    },
+    {
+      "title": "Electrified Weekly – Black Friday power station lows from Anker, EcoFlow, and Bluetti, Segway EVs up to 57% off, more",
+      "url": "https://9to5toys.com/2026/11/21/this-weeks-best-ev-and-e-bike-deals-11/",
+      "source": "9to5Toys",
+      "category": "Oyuncak",
+      "price": null,
+      "published": "Sat, 21 Nov 2026 13:59:05 +0000",
+      "seen": "2026-11-23T12:55:21.857825+00:00"
+    },
+    {
+      "title": "9to5Toys Battlestation Weekly: Black Friday Week deals on PC gaming accessories, Logitech gear, more from just $3",
+      "url": "https://9to5toys.com/2026/11/21/9to5toys-battlestation-weekly-black-friday-week-deals-2/",
+      "source": "9to5Toys",
+      "category": "Oyuncak",
+      "price": 3.0,
+      "published": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "seen": "2026-11-23T12:55:21.857806+00:00"
+    },
+    {
+      "title": "Gift ideas for creators, travelers, and techies on the move (Up to $200+ off)",
+      "url": "https://9to5toys.com/2026/11/21/gift-ideas-creators-travelers-techies-on-go-deals/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 200.0,
+      "published": "Sat, 21 Nov 2026 14:24:04 +0000",
+      "seen": "2026-11-23T12:55:21.857786+00:00"
+    },
+    {
+      "title": "Best of 9to5Toys Weekly – Black Friday edition: Hottest deals of the year now live at Amazon, Best Buy, more",
+      "url": "https://9to5toys.com/2026/11/21/black-friday-edition-9to5toys-best-deals/",
+      "source": "9to5Toys",
+      "category": "Oyuncak",
+      "price": null,
+      "published": "Sat, 21 Nov 2026 14:38:36 +0000",
+      "seen": "2026-11-23T12:55:21.857757+00:00"
+    },
+    {
+      "title": "Best Black Friday weekend Apple deals: AirPods Pro 3 even lower, MacBooks, Watch, new iPad mini, more [Updated]",
+      "url": "https://9to5toys.com/2026/11/21/best-black-friday-week-apple-deals/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": null,
+      "published": "Sat, 21 Nov 2026 14:49:00 +0000",
+      "seen": "2026-11-23T12:55:21.857738+00:00"
+    },
+    {
+      "title": "Amazon’s all-new touchscreen Echo Time smart speaker and home hub hits all-time low at $100 off",
+      "url": "https://9to5toys.com/2026/11/21/amazon-new-touchscreen-echo-time-smart-speaker-black-friday-low/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 100.0,
+      "published": "Sat, 21 Nov 2026 14:50:00 +0000",
+      "seen": "2026-11-23T12:55:21.857711+00:00"
+    },
+    {
+      "title": "All Apple Watch Series 12 models hit Black Friday all-time lows at $70 off",
+      "url": "https://9to5toys.com/2026/11/21/apple-watch-series-12-black-friday-best-price/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 70.0,
+      "published": "Sat, 21 Nov 2026 17:49:00 +0000",
+      "seen": "2026-11-23T12:55:21.857682+00:00"
+    },
+    {
+      "title": "Nintendo 2026 Black Friday sale live today! Rare Switch 2 game deals, console bundle, more",
+      "url": "https://9to5toys.com/2026/11/21/nintendo-2026-black-friday-sale-live/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": null,
+      "published": "Sun, 22 Nov 2026 05:00:00 +0000",
+      "seen": "2026-11-23T12:55:21.857670+00:00"
+    },
+    {
+      "title": "Hello! AirPods Pro 3 drop even lower to $169 for Black Friday ($80 off)",
+      "url": "https://9to5toys.com/2026/11/22/airpods-pro-3-black-friday/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 169.0,
+      "published": "Sun, 22 Nov 2026 08:29:09 +0000",
+      "seen": "2026-11-23T12:55:21.857633+00:00"
+    },
+    {
+      "title": "Amazon 2026 Black Friday Week – Day 4: Switch 2 bundle and games, AirPods Pro 3 even lower, more",
+      "url": "https://9to5toys.com/2026/11/22/amazon-2026-black-friday-week-day-4-new-deals/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": null,
+      "published": "Sun, 22 Nov 2026 09:01:14 +0000",
+      "seen": "2026-11-23T12:55:21.857615+00:00"
+    },
+    {
+      "title": "Apple Watch SE 3 hits Black Friday all-time low: Score a current-gen Apple wearable from just $179",
+      "url": "https://9to5toys.com/2026/11/22/apple-watch-se-3-all-time-low-black-friday/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 179.0,
+      "published": "Sun, 22 Nov 2026 09:21:28 +0000",
+      "seen": "2026-11-23T12:55:21.857588+00:00"
+    },
+    {
+      "title": "Most affordable new M6 MacBook Pro just dropped again to Black Friday all-time low at $200 off",
+      "url": "https://9to5toys.com/2026/11/22/m6-macbook-pro-black-friday-best-deal/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 200.0,
+      "published": "Sun, 22 Nov 2026 12:25:51 +0000",
+      "seen": "2026-11-23T12:55:21.857574+00:00"
+    },
+    {
+      "title": "Give Mom or Dad a printer upgrade with Best Buy’s Brother Black Friday deals from $70",
+      "url": "https://9to5toys.com/2026/11/22/best-buy-black-friday-brother-printer-deals/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 70.0,
+      "published": "Sun, 22 Nov 2026 14:00:00 +0000",
+      "seen": "2026-11-23T12:55:21.857542+00:00"
+    },
+    {
+      "title": "Gift ideas for at-home creators to modernize, organize, and accessorize from $16",
+      "url": "https://9to5toys.com/2026/11/22/gift-ideas-for-at-home-creators-to-modernize-organize-and-accessorize-from-16/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 16.0,
+      "published": "Sun, 22 Nov 2026 14:54:27 +0000",
+      "seen": "2026-11-23T12:55:21.857511+00:00"
+    },
+    {
+      "title": "9to5Toys News Weekly recap – Black Friday everywhere, LEGO Insiders Weekend, more",
+      "url": "https://9to5toys.com/2026/11/22/weeks-tech-new-black-friday/",
+      "source": "9to5Toys",
+      "category": "Oyuncak",
+      "price": null,
+      "published": "Sun, 22 Nov 2026 15:14:03 +0000",
+      "seen": "2026-11-23T12:55:21.857480+00:00"
+    },
+    {
+      "title": "Back in-stock: 2026 Apple Polishing Cloth is the perfect stocking stuffer at $9 Prime shipped",
+      "url": "https://9to5toys.com/2026/11/22/new-2026-apple-polishing-cloth-clean-iphone-duo/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 9.0,
+      "published": "Sun, 22 Nov 2026 16:08:00 +0000",
+      "seen": "2026-11-23T12:55:21.857457+00:00"
+    },
+    {
+      "title": "Ring video doorbells and cameras are great holiday gifts, now up to 60% off",
+      "url": "https://9to5toys.com/2026/11/22/ring-video-doorbells-cameras-great-holiday-gifts/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": null,
+      "published": "Sun, 22 Nov 2026 19:00:00 +0000",
+      "seen": "2026-11-23T12:55:21.857424+00:00"
+    },
+    {
+      "title": "Sennheiser headphones: A perfect gift for folks who really know audio (Up to $120 off)",
+      "url": "https://9to5toys.com/2026/11/22/sennheiser-headphones-perfect-gift-audiophile/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 120.0,
+      "published": "Sun, 22 Nov 2026 21:00:00 +0000",
+      "seen": "2026-11-23T12:55:21.857394+00:00"
+    },
+    {
+      "title": "Apple Watch Series 12 just hit Black Friday all-time low at $100 off (All-time low)",
+      "url": "https://9to5toys.com/2026/11/22/apple-watch-series-12-black-friday-all-time-low/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 100.0,
+      "published": "Mon, 23 Nov 2026 07:25:26 +0000",
+      "seen": "2026-11-23T12:55:21.857374+00:00"
+    },
+    {
+      "title": "Apple’s iPhone Duo-ready Apple Pencil (USB-C) hits Black Friday low at just $49 (Nearly 40% off)",
+      "url": "https://9to5toys.com/2026/11/22/apple-iphone-duo-apple-pencil-usb-c-black-friday-deal/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 49.0,
+      "published": "Mon, 23 Nov 2026 07:41:03 +0000",
+      "seen": "2026-11-23T12:55:21.857362+00:00"
+    },
+    {
+      "title": "Amazon 2026 Black Friday Week – Day 5: AirPods Pro 3 $100 off, Series 12 $100 off, much more",
+      "url": "https://9to5toys.com/2026/11/23/amazon-2026-black-friday-new-deals/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 100.0,
+      "published": "Mon, 23 Nov 2026 08:00:03 +0000",
+      "seen": "2026-11-23T12:55:21.857346+00:00"
+    },
+    {
+      "title": "Walmart 2026 Black Friday sale now live! Thousands of deals, LEGO, toys, TVs, much more",
+      "url": "https://9to5toys.com/2026/11/23/walmart-2026-black-friday-sale-now-live/",
+      "source": "9to5Toys",
+      "category": "Oyuncak",
+      "price": null,
+      "published": "Mon, 23 Nov 2026 08:24:57 +0000",
+      "seen": "2026-11-23T12:55:21.857314+00:00"
+    },
+    {
+      "title": "Apple’s new OLED iPad mini (A20 Pro) hits Black Friday all-time low at $100 off",
+      "url": "https://9to5toys.com/2026/11/23/apple-new-oled-ipad-mini-a20-pro-black-friday-best-price/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 100.0,
+      "published": "Mon, 23 Nov 2026 08:50:49 +0000",
+      "seen": "2026-11-23T12:55:21.857298+00:00"
+    },
+    {
+      "title": "M5 MacBook Air Black Friday deals drop even lower, now up to $310 off with models from $989",
+      "url": "https://9to5toys.com/2026/11/23/m5-macbook-air-black-friday-deals-best-prices/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 310.0,
+      "published": "Mon, 23 Nov 2026 10:15:49 +0000",
+      "seen": "2026-11-23T12:55:21.857282+00:00"
+    },
+    {
+      "title": "Apple Watch Ultra 4 back to all-time low pricing for Black Friday at nearly $100 off",
+      "url": "https://9to5toys.com/2026/11/23/apple-watch-ultra-4-black-friday/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 100.0,
+      "published": "Mon, 23 Nov 2026 10:31:52 +0000",
+      "seen": "2026-11-23T12:55:21.857241+00:00"
+    },
+    {
+      "title": "Best Buy Black Friday Week 4 deals now live: Apple, Android, Nintendo, LEGO, appliances, much more,",
+      "url": "https://9to5toys.com/2026/11/23/best-buy-black-friday-week-4-deals-now-live/",
+      "source": "9to5Toys",
+      "category": "Oyuncak",
+      "price": null,
+      "published": "Mon, 23 Nov 2026 10:58:28 +0000",
+      "seen": "2026-11-23T12:55:21.857226+00:00"
+    },
+    {
+      "title": "Best Buy Black Friday Deals of the Day: Snapdragon Copilot+ PC $400, Samsung Galaxy Watch Ultra, Christmas lights, more",
+      "url": "https://9to5toys.com/2026/11/23/best-buy-black-friday-deals-of-the-day-snapdragon-copilot-pc-more/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 400.0,
+      "published": "Mon, 23 Nov 2026 11:02:52 +0000",
+      "seen": "2026-11-23T12:55:21.857206+00:00"
+    },
+    {
+      "title": "Amazon Echo Black Friday sale from $40: Massive deal on Dot Max at 58% off, smart displays, more",
+      "url": "https://9to5toys.com/2026/11/23/amazon-echo-black-friday-sale-massive-deals/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 40.0,
+      "published": "Mon, 23 Nov 2026 11:19:29 +0000",
+      "seen": "2026-11-23T12:55:21.857190+00:00"
+    },
+    {
+      "title": "Heads up! Wild deal hits new Bronze Apple Watch Series 12 with Milanese Loop at $299 ($150 off)",
+      "url": "https://9to5toys.com/2026/11/23/wild-deal-bronze-apple-watch-series-12-milanese-black-friday/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 299.0,
+      "published": "Mon, 23 Nov 2026 11:32:21 +0000",
+      "seen": "2026-11-23T12:55:21.857161+00:00"
+    },
+    {
+      "title": "Whoa! Apple’s AirPods Pro 3 just hit a wild $149 all-time low for Black Friday (100 off!)",
+      "url": "https://9to5toys.com/2026/11/23/apple-airpods-pro-3-all-time-low-black-friday/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 149.0,
+      "published": "Mon, 23 Nov 2026 11:39:00 +0000",
+      "seen": "2026-11-23T12:55:21.857143+00:00"
+    },
+    {
+      "title": "Anker 2026 Black Friday Week sale updated with new deals: All-new Nano chargers, hubs, Qi2.2 stands, more from just $16",
+      "url": "https://9to5toys.com/2026/11/23/anker-2026-black-friday-week-sale-updated-with-new-deals/",
+      "source": "9to5Toys",
+      "category": "Elektronik",
+      "price": 16.0,
+      "published": "Mon, 23 Nov 2026 11:43:41 +0000",
+      "seen": "2026-11-23T12:55:21.857116+00:00"
+    },
+    {
+      "title": "Nearly 50% off for Black Friday: Microsoft’s brand-new Gears of War: E-Day Xbox controller hits $49 all-time low",
+      "url": "https://9to5toys.com/2026/11/23/nearly-50-off-for-black-friday-microsoft-gears-of-war-e-day-xbox-controller/",
+      "source": "9to5Toys",
+      "category": "Diğer",
+      "price": 49.0,
+      "published": "Mon, 23 Nov 2026 12:20:09 +0000",
+      "seen": "2026-11-23T12:55:21.857083+00:00"
+    },
+    {
+      "title": "Mid-range 13-inch M5 iPad Pro hits one of its best prices ever at $350 off for Black Friday",
+      "url": "https://9to5toys.com/2026/11/23/mid-13-inch-m5-ipad-pro-best-prices-ever-black-friday/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 350.0,
+      "published": "Mon, 23 Nov 2026 12:34:54 +0000",
+      "seen": "2026-11-23T12:55:21.857019+00:00"
+    },
+    {
+      "title": "Twelve South’s Apple Watch band organizer now just $19 for Black Friday",
+      "url": "https://9to5toys.com/2026/11/23/twelve-south-timeporter-strap-storage-case/",
+      "source": "9to5Toys",
+      "category": "Saat",
+      "price": 19.0,
+      "published": "Mon, 23 Nov 2026 12:53:35 +0000",
+      "seen": "2026-11-23T12:55:21.856977+00:00"
+    },
+    {
+      "title": "Original 3D Crystal Puzzles: Peanuts Snoopy House $7.75, Nintendo Kirby $7.70 & More",
+      "url": "https://slickdeals.net/f/20370558-original-3d-crystal-puzzles-nintendo-kirby-7-69-marvel-iron-man-6-89-peanuts-snoopy-house-7-74-more-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 7.75,
+      "published": "Mon, 23 Nov 2026 10:42:40 +0000",
+      "seen": "2026-11-23T12:55:21.745742+00:00"
+    },
+    {
+      "title": "Canon PIXMA TS3722 Wireless All-In-One Inkjet Printer $29",
+      "url": "https://slickdeals.net/f/20373915-29-canon-pixma-ts3722-wireless-all-in-one-inkjet-printer-for-home-office-at-walmart-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 29.0,
+      "published": "Mon, 23 Nov 2026 10:45:56 +0000",
+      "seen": "2026-11-23T12:55:21.745726+00:00"
+    },
+    {
+      "title": "Prime Members: Bossern 800-LED Twinkling Cluster Christmas Lights (Multicolor) $14.20 + Free S&H",
+      "url": "https://slickdeals.net/f/20369991-prime-members-bossern-800-led-twinkling-cluster-christmas-lights-multicolor-14-20-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 14.2,
+      "published": "Mon, 23 Nov 2026 10:52:12 +0000",
+      "seen": "2026-11-23T12:55:21.745711+00:00"
+    },
+    {
+      "title": "AMD Ryzen 7 5800X3D + Gigabyte B550 MB + 32GB Gigastone DDR4 + 1TB Huadisk SSD $438.95 + Free S&H",
+      "url": "https://slickdeals.net/f/20375301-amd-ryzen-7-5800x3d-gigabyte-b550-mb-32gb-gigastone-ddr4-1tb-huadisk-ssd-438-94?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 438.95,
+      "published": "Mon, 23 Nov 2026 11:04:45 +0000",
+      "seen": "2026-11-23T12:55:21.745694+00:00"
+    },
+    {
+      "title": "Final Fantasy VII Remake Intergrade (PS5) $15",
+      "url": "https://slickdeals.net/f/20367873-14-99-final-fantasy-vii-remake-intergrade-ps5-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 11:09:50 +0000",
+      "seen": "2026-11-23T12:55:21.745677+00:00"
+    },
+    {
+      "title": "5-Pc Kobalt Assorted Pliers Set w/ Cushioned Grips $15 + Free Pickup",
+      "url": "https://slickdeals.net/f/20374974-kobalt-pliers-set-5-piece-55754-at-lowe-s-14-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 11:19:14 +0000",
+      "seen": "2026-11-23T12:55:21.745663+00:00"
+    },
+    {
+      "title": "259-Pc LEGO City Jet vs. Car Building Set (60489) $15",
+      "url": "https://slickdeals.net/f/20374668-259-piece-lego-city-jet-vs-car-building-set-60489-15-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Oyuncak",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 11:23:03 +0000",
+      "seen": "2026-11-23T12:55:21.745651+00:00"
+    },
+    {
+      "title": "onn Full HD 1080p Dash Cam $15",
+      "url": "https://slickdeals.net/f/20374695-onn-full-hd-1080p-dash-cam-15?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 11:34:42 +0000",
+      "seen": "2026-11-23T12:55:21.745644+00:00"
+    },
+    {
+      "title": "MSI Crosshair Laptop: 16\" QHD+ 240Hz, Ryzen 7 8840HX, 5060, 16GB DDR5, 1TB SSD $1199 + Free S&H",
+      "url": "https://slickdeals.net/f/20373579-msi-crosshair-16-qhd-240hz-gaming-laptop-w-ryzen-7-8840hx-rtx-5060-16gb-ddr5-1tb-ssd-1199-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 1199.0,
+      "published": "Mon, 23 Nov 2026 11:35:45 +0000",
+      "seen": "2026-11-23T12:55:21.745632+00:00"
+    },
+    {
+      "title": "1600-Pc RoseArt Peanuts: World's Largest Snoopy Shaped Jigsaw Puzzle $15",
+      "url": "https://slickdeals.net/f/20371839-14-99-1600-pc-roseart-peanuts-world-s-largest-snoopy-shaped-jigsaw-puzzle-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 11:43:05 +0000",
+      "seen": "2026-11-23T12:55:21.745613+00:00"
+    },
+    {
+      "title": "Select Accts: 3-Ct 16.9-Oz Nivea Men Maximum Hydration Body Wash w/ Aloe Vera $7.70 w/ S&S",
+      "url": "https://slickdeals.net/f/20375022-sns-ac-7-71-or-6-74-3-count-16-9-oz-nivea-men-maximum-hydration-body-wash-w-aloe-vera-at-amazon-2-57-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 7.7,
+      "published": "Mon, 23 Nov 2026 11:46:16 +0000",
+      "seen": "2026-11-23T12:55:21.745597+00:00"
+    },
+    {
+      "title": "Target eGift Card Sale (Email Delivery): Meta Quest, H&M, Jamba Juice, Red Robin Up to 20% Off & More",
+      "url": "https://slickdeals.net/f/20329476-target-gift-card-deals-11-22-29-up-to-20-off-instantly-meta-h-m-red-robin-one4all-fandango-and-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": null,
+      "published": "Mon, 23 Nov 2026 11:49:48 +0000",
+      "seen": "2026-11-23T12:55:21.745580+00:00"
+    },
+    {
+      "title": "Kohl's Black Friday Offer: Up to 50% Off: Apparel, Home, Beauty, Toys & More Extra 20% Off + Earn $15 Kohl's Cash $50+ w/ Free S&H on $25+",
+      "url": "https://slickdeals.net/f/20318370-kohls-black-friday-11-22-30-20-off-earn-15-kohls-cash-for-every-50-spent-fs-w-25?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Oyuncak",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 11:50:28 +0000",
+      "seen": "2026-11-23T12:55:21.745560+00:00"
+    },
+    {
+      "title": "SteelSeries Arctis Nova 7 Wireless Multi-Platform Gaming & Mobile Headset $65 + Free S&H w/ Prime",
+      "url": "https://slickdeals.net/f/20374296-64-99-steelseries-arctis-nova-7-wireless-multi-platform-gaming-mobile-headset-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 65.0,
+      "published": "Mon, 23 Nov 2026 11:51:36 +0000",
+      "seen": "2026-11-23T12:55:21.745549+00:00"
+    },
+    {
+      "title": "Sonic X Shadow Generations (Nintendo Switch 2 Game-Key Card) $15",
+      "url": "https://slickdeals.net/f/20374893-sonic-x-shadow-generations-switch-2-15-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 11:59:16 +0000",
+      "seen": "2026-11-23T12:55:21.745527+00:00"
+    },
+    {
+      "title": "Wrangler Men's and Big Men's Relaxed Fit Jeans w/ Flex (6 Colors) $13",
+      "url": "https://slickdeals.net/f/20374215-13-wmt-wrangler-men-s-and-big-men-s-relaxed-fit-jeans-with-flex-size-colors-choice?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Giyim",
+      "price": 13.0,
+      "published": "Mon, 23 Nov 2026 12:12:00 +0000",
+      "seen": "2026-11-23T12:55:21.745511+00:00"
+    },
+    {
+      "title": "Pre-Order Offer: Rayman Legends Retold Launch Edition (PS5 or Nintendo Switch 2) $30 + Free S&H",
+      "url": "https://slickdeals.net/f/20367687-pre-order-rayman-legends-retold-launch-edition-ps5-switch-2-29-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 30.0,
+      "published": "Mon, 23 Nov 2026 12:14:04 +0000",
+      "seen": "2026-11-23T12:55:21.745503+00:00"
+    },
+    {
+      "title": "Borderlands 4 (PS5) $15 + Free Pickup",
+      "url": "https://slickdeals.net/f/20374365-15-borderlands-4-playstation-5-at-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 12:22:28 +0000",
+      "seen": "2026-11-23T12:55:21.745483+00:00"
+    },
+    {
+      "title": "Beats By Dr. Dre Solo Buds True Wireless Earbuds (Ivory) $34",
+      "url": "https://slickdeals.net/f/20373597-beats-by-dr-dre-solo-buds-bluetooth-in-ear-earbuds-ivory-34-at-walmart-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Elektronik",
+      "price": 34.0,
+      "published": "Mon, 23 Nov 2026 12:25:19 +0000",
+      "seen": "2026-11-23T12:55:21.745457+00:00"
+    },
+    {
+      "title": "Beats By Dr. Dre Solo Buds True Wireless Earbuds (Storm Gray) $34",
+      "url": "https://slickdeals.net/f/20376054-beats-by-dr-dre-solo-buds-true-wireless-earbuds-in-storm-34-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Elektronik",
+      "price": 34.0,
+      "published": "Mon, 23 Nov 2026 12:25:50 +0000",
+      "seen": "2026-11-23T12:55:21.745446+00:00"
+    },
+    {
+      "title": "The Blood of Dawnwalker: Day One Edition (PS5) $30 + Free S&H on $35+",
+      "url": "https://slickdeals.net/f/20374485-the-blood-of-dawnwalker-d1-playstation-5-game?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 30.0,
+      "published": "Mon, 23 Nov 2026 12:31:07 +0000",
+      "seen": "2026-11-23T12:55:21.745432+00:00"
+    },
+    {
+      "title": "133-Pc. LEGO Bluey: Bluey’s Beach & Family Car Trip Building Set $15",
+      "url": "https://slickdeals.net/f/20374788-133-pc-lego-bluey-bluey-s-beach-family-car-trip-building-set-15?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Oyuncak",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 12:37:47 +0000",
+      "seen": "2026-11-23T12:55:21.745414+00:00"
+    },
+    {
+      "title": "UGREEN FineTrack Tracker Tags & Cards (Various) from $10",
+      "url": "https://slickdeals.net/f/20367111-4-pk-ugreen-finetrack-bluetooth-tracker-tags-ios-only-18-96-more-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Çanta / Cüzdan",
+      "price": 10.0,
+      "published": "Mon, 23 Nov 2026 12:39:21 +0000",
+      "seen": "2026-11-23T12:55:21.745395+00:00"
+    },
+    {
+      "title": "Star Wars Outlaws Gold Edition (Switch 2, Game-Key Card) $15",
+      "url": "https://slickdeals.net/f/20375862-star-wars-outlaws-gold-edition-nintendo-switch-2-15-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 15.0,
+      "published": "Mon, 23 Nov 2026 12:42:10 +0000",
+      "seen": "2026-11-23T12:55:21.745378+00:00"
+    },
+    {
+      "title": "Govee RGBIC Dimmable 1000 Lumen Smart Corner LED Floor Lamp (4 Colors) $55 + Free S&H",
+      "url": "https://slickdeals.net/f/20375976-govee-rgbic-1000lm-led-corner-floor-lamp-4-colors-54-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Diğer",
+      "price": 55.0,
+      "published": "Mon, 23 Nov 2026 12:52:42 +0000",
+      "seen": "2026-11-23T12:55:21.745340+00:00"
+    },
     {
       "title": "Official Black Friday Apple deals now live: MacBook $250 off, Apple TV 4K, AirPods $120 off, Series 12, more [Updated]",
       "url": "https://9to5toys.com/2026/11/20/official-black-friday-apple-deals-now-live/",
@@ -146,312 +821,6 @@
       "price": null,
       "published": "Fri, 20 Nov 2026 19:00:00 +0000",
       "seen": "2026-11-23T01:46:20.500494+00:00"
-    },
-    {
-      "title": "SanDisk’s ‘world’s smallest’ 256GB USB-C flash drive is just $50 for Black Friday",
-      "url": "https://9to5toys.com/2026/11/20/sandisk-worlds-smallest-256gb-usb-c-flash-drive-is-just-50-for-black-friday/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 50.0,
-      "published": "Fri, 20 Nov 2026 19:03:29 +0000",
-      "seen": "2026-11-23T01:46:20.500468+00:00"
-    },
-    {
-      "title": "Amazon Black Friday protein deals: Save up to 35% on GHOST, CLIF, ALLMAX, more (deals from $8)",
-      "url": "https://9to5toys.com/2026/11/20/protein-powder-and-bar-deals/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 8.0,
-      "published": "Fri, 20 Nov 2026 20:11:44 +0000",
-      "seen": "2026-11-23T01:46:20.500437+00:00"
-    },
-    {
-      "title": "SANDMARC Black Friday now live: Best prices ever on new iPhone Duo/18 Pro leather cases, more",
-      "url": "https://9to5toys.com/2026/11/20/sandmarc-black-friday-live-best-iphone-duo-18-pro-leather-case/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": null,
-      "published": "Fri, 20 Nov 2026 20:30:16 +0000",
-      "seen": "2026-11-23T01:46:20.500407+00:00"
-    },
-    {
-      "title": "Travel up to 130 miles with Velotric’s Nomad 2 all-terrain e-bike + extra battery and mirror down at $1,799 ($740 savings)",
-      "url": "https://9to5toys.com/2026/11/20/velotric-nomad-2-all-terrain-e-bike-extra-battery-and-mirror/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 1799.0,
-      "published": "Fri, 20 Nov 2026 21:26:14 +0000",
-      "seen": "2026-11-23T01:46:20.500374+00:00"
-    },
-    {
-      "title": "Add Ninja appliances to your kitchen arsenal with up to 50% Black Friday savings – all starting from $70",
-      "url": "https://9to5toys.com/2026/11/20/ninja-appliances-black-friday/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 70.0,
-      "published": "Fri, 20 Nov 2026 22:03:17 +0000",
-      "seen": "2026-11-23T01:46:20.500340+00:00"
-    },
-    {
-      "title": "Bring Gemini into your daily workflow as a solopreneur with 20% off your first 6 months of Google Workspace",
-      "url": "https://9to5toys.com/2026/11/20/gemini-daily-workflow-google-workspace-six-month-plans-20-off/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": null,
-      "published": "Sat, 21 Nov 2026 00:00:00 +0000",
-      "seen": "2026-11-23T01:46:20.500309+00:00"
-    },
-    {
-      "title": "LEGO Insiders Weekend 2026 is live! Browse promotions and gift ideas from Star Wars, Icons, Disney, DC, Lord of the Rings, more",
-      "url": "https://9to5toys.com/2026/11/20/lego-insiders-weekend-2026/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": null,
-      "published": "Sat, 21 Nov 2026 05:00:00 +0000",
-      "seen": "2026-11-23T01:46:20.500272+00:00"
-    },
-    {
-      "title": "Apple’s new OLED iPad mini hits all-time low pricing for Black Friday at $669",
-      "url": "https://9to5toys.com/2026/11/21/apple-new-oled-ipad-mini-best-black-friday-deal/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": 669.0,
-      "published": "Sat, 21 Nov 2026 10:35:35 +0000",
-      "seen": "2026-11-23T01:46:20.500254+00:00"
-    },
-    {
-      "title": "New Amazon Android Alexa Tablets just hit Black Friday all-time lows from $120 (Up to $160 off)",
-      "url": "https://9to5toys.com/2026/11/21/new-amazon-android-alexa-tablets-black-friday-deals-2/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": 120.0,
-      "published": "Sat, 21 Nov 2026 10:54:55 +0000",
-      "seen": "2026-11-23T01:46:20.500229+00:00"
-    },
-    {
-      "title": "Amazon 2026 Black Friday Week – Day 3: New all-time lows, OLED iPad mini, Alexa Tablets, Doorbusters, more",
-      "url": "https://9to5toys.com/2026/11/21/amazon-2026-black-friday-week-day-3-new-deals/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": null,
-      "published": "Sat, 21 Nov 2026 11:16:01 +0000",
-      "seen": "2026-11-23T01:46:20.500200+00:00"
-    },
-    {
-      "title": "Black Friday prices just dropped even lower on new Echo Time, Studio, Camera, more (Up to $100 off)",
-      "url": "https://9to5toys.com/2026/11/21/black-friday-prices-drop-lower-new-echo-time-studio-camera/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": 100.0,
-      "published": "Sat, 21 Nov 2026 11:48:24 +0000",
-      "seen": "2026-11-23T01:46:20.500143+00:00"
-    },
-    {
-      "title": "9to5Toys Steals Weekly – Grade 5 titanium Apple Watch band, color smart hygrometers, modern dish drying rack, more",
-      "url": "https://9to5toys.com/2026/11/21/steals-weekly-nov-21/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": null,
-      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
-      "seen": "2026-11-23T01:46:20.500114+00:00"
-    },
-    {
-      "title": "Oura Ring 5: Gift the world’s most gorgeous ultra-smart health ring at $100 off",
-      "url": "https://9to5toys.com/2026/11/21/oura-ring-5-gift-worlds-best-smart-health-ring/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 100.0,
-      "published": "Sat, 21 Nov 2026 13:13:49 +0000",
-      "seen": "2026-11-23T01:46:20.500098+00:00"
-    },
-    {
-      "title": "9to5Toys Fashion Weekly – Nike early Black Friday, tomtoc 40L travel backpack $72, UPF 50+ shirts $12.50, more",
-      "url": "https://9to5toys.com/2026/11/21/fashion-weekly-nov-21/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": 72.0,
-      "published": "Sat, 21 Nov 2026 13:15:00 +0000",
-      "seen": "2026-11-23T01:46:20.500063+00:00"
-    },
-    {
-      "title": "Get a MacBook Neo under the tree at $649 Black Friday pricing (Best deal in months)",
-      "url": "https://9to5toys.com/2026/11/21/most-affordable-current-macbook-under-tree-gift-black-friday-neo/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": 649.0,
-      "published": "Sat, 21 Nov 2026 13:17:00 +0000",
-      "seen": "2026-11-23T01:46:20.500044+00:00"
-    },
-    {
-      "title": "Best Buy serves up Black Friday Nespresso deals from $89 (Up to $91 off)",
-      "url": "https://9to5toys.com/2026/11/21/best-buy-nespresso-black-friday/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 89.0,
-      "published": "Sat, 21 Nov 2026 13:45:00 +0000",
-      "seen": "2026-11-23T01:46:20.500028+00:00"
-    },
-    {
-      "title": "Electrified Weekly – Black Friday power station lows from Anker, EcoFlow, and Bluetti, Segway EVs up to 57% off, more",
-      "url": "https://9to5toys.com/2026/11/21/this-weeks-best-ev-and-e-bike-deals-11/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": null,
-      "published": "Sat, 21 Nov 2026 13:59:05 +0000",
-      "seen": "2026-11-23T01:46:20.499995+00:00"
-    },
-    {
-      "title": "9to5Toys Battlestation Weekly: Black Friday Week deals on PC gaming accessories, Logitech gear, more from just $3",
-      "url": "https://9to5toys.com/2026/11/21/9to5toys-battlestation-weekly-black-friday-week-deals-2/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": 3.0,
-      "published": "Sat, 21 Nov 2026 14:00:00 +0000",
-      "seen": "2026-11-23T01:46:20.499973+00:00"
-    },
-    {
-      "title": "Gift ideas for creators, travelers, and techies on the move (Up to $200+ off)",
-      "url": "https://9to5toys.com/2026/11/21/gift-ideas-creators-travelers-techies-on-go-deals/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 200.0,
-      "published": "Sat, 21 Nov 2026 14:24:04 +0000",
-      "seen": "2026-11-23T01:46:20.499951+00:00"
-    },
-    {
-      "title": "Best of 9to5Toys Weekly – Black Friday edition: Hottest deals of the year now live at Amazon, Best Buy, more",
-      "url": "https://9to5toys.com/2026/11/21/black-friday-edition-9to5toys-best-deals/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": null,
-      "published": "Sat, 21 Nov 2026 14:38:36 +0000",
-      "seen": "2026-11-23T01:46:20.499918+00:00"
-    },
-    {
-      "title": "Best Black Friday weekend Apple deals: AirPods Pro 3 even lower, MacBooks, Watch, new iPad mini, more [Updated]",
-      "url": "https://9to5toys.com/2026/11/21/best-black-friday-week-apple-deals/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": null,
-      "published": "Sat, 21 Nov 2026 14:49:00 +0000",
-      "seen": "2026-11-23T01:46:20.499896+00:00"
-    },
-    {
-      "title": "Amazon’s all-new touchscreen Echo Time smart speaker and home hub hits all-time low at $100 off",
-      "url": "https://9to5toys.com/2026/11/21/amazon-new-touchscreen-echo-time-smart-speaker-black-friday-low/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": 100.0,
-      "published": "Sat, 21 Nov 2026 14:50:00 +0000",
-      "seen": "2026-11-23T01:46:20.499864+00:00"
-    },
-    {
-      "title": "All Apple Watch Series 12 models hit Black Friday all-time lows at $70 off",
-      "url": "https://9to5toys.com/2026/11/21/apple-watch-series-12-black-friday-best-price/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": 70.0,
-      "published": "Sat, 21 Nov 2026 17:49:00 +0000",
-      "seen": "2026-11-23T01:46:20.499831+00:00"
-    },
-    {
-      "title": "Nintendo 2026 Black Friday sale live today! Rare Switch 2 game deals, console bundle, more",
-      "url": "https://9to5toys.com/2026/11/21/nintendo-2026-black-friday-sale-live/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": null,
-      "published": "Sun, 22 Nov 2026 05:00:00 +0000",
-      "seen": "2026-11-23T01:46:20.499819+00:00"
-    },
-    {
-      "title": "Hello! AirPods Pro 3 drop even lower to $169 for Black Friday ($80 off)",
-      "url": "https://9to5toys.com/2026/11/22/airpods-pro-3-black-friday/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": 169.0,
-      "published": "Sun, 22 Nov 2026 08:29:09 +0000",
-      "seen": "2026-11-23T01:46:20.499776+00:00"
-    },
-    {
-      "title": "Amazon 2026 Black Friday Week – Day 4: Switch 2 bundle and games, AirPods Pro 3 even lower, more",
-      "url": "https://9to5toys.com/2026/11/22/amazon-2026-black-friday-week-day-4-new-deals/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": null,
-      "published": "Sun, 22 Nov 2026 09:01:14 +0000",
-      "seen": "2026-11-23T01:46:20.499755+00:00"
-    },
-    {
-      "title": "Apple Watch SE 3 hits Black Friday all-time low: Score a current-gen Apple wearable from just $179",
-      "url": "https://9to5toys.com/2026/11/22/apple-watch-se-3-all-time-low-black-friday/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": 179.0,
-      "published": "Sun, 22 Nov 2026 09:21:28 +0000",
-      "seen": "2026-11-23T01:46:20.499720+00:00"
-    },
-    {
-      "title": "Most affordable new M6 MacBook Pro just dropped again to Black Friday all-time low at $200 off",
-      "url": "https://9to5toys.com/2026/11/22/m6-macbook-pro-black-friday-best-deal/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 200.0,
-      "published": "Sun, 22 Nov 2026 12:25:51 +0000",
-      "seen": "2026-11-23T01:46:20.499701+00:00"
-    },
-    {
-      "title": "Give Mom or Dad a printer upgrade with Best Buy’s Brother Black Friday deals from $70",
-      "url": "https://9to5toys.com/2026/11/22/best-buy-black-friday-brother-printer-deals/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 70.0,
-      "published": "Sun, 22 Nov 2026 14:00:00 +0000",
-      "seen": "2026-11-23T01:46:20.499663+00:00"
-    },
-    {
-      "title": "Gift ideas for at-home creators to modernize, organize, and accessorize from $16",
-      "url": "https://9to5toys.com/2026/11/22/gift-ideas-for-at-home-creators-to-modernize-organize-and-accessorize-from-16/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 16.0,
-      "published": "Sun, 22 Nov 2026 14:54:27 +0000",
-      "seen": "2026-11-23T01:46:20.499628+00:00"
-    },
-    {
-      "title": "9to5Toys News Weekly recap – Black Friday everywhere, LEGO Insiders Weekend, more",
-      "url": "https://9to5toys.com/2026/11/22/weeks-tech-new-black-friday/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": null,
-      "published": "Sun, 22 Nov 2026 15:14:03 +0000",
-      "seen": "2026-11-23T01:46:20.499593+00:00"
-    },
-    {
-      "title": "Back in-stock: 2026 Apple Polishing Cloth is the perfect stocking stuffer at $9 Prime shipped",
-      "url": "https://9to5toys.com/2026/11/22/new-2026-apple-polishing-cloth-clean-iphone-duo/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 9.0,
-      "published": "Sun, 22 Nov 2026 16:08:00 +0000",
-      "seen": "2026-11-23T01:46:20.499564+00:00"
-    },
-    {
-      "title": "Ring video doorbells and cameras are great holiday gifts, now up to 60% off",
-      "url": "https://9to5toys.com/2026/11/22/ring-video-doorbells-cameras-great-holiday-gifts/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": null,
-      "published": "Sun, 22 Nov 2026 19:00:00 +0000",
-      "seen": "2026-11-23T01:46:20.499523+00:00"
-    },
-    {
-      "title": "Sennheiser headphones: A perfect gift for folks who really know audio (Up to $120 off)",
-      "url": "https://9to5toys.com/2026/11/22/sennheiser-headphones-perfect-gift-audiophile/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": 120.0,
-      "published": "Sun, 22 Nov 2026 21:00:00 +0000",
-      "seen": "2026-11-23T01:46:20.499472+00:00"
     },
     {
       "title": "8.35\" Lisen MagSafe Magnetic Car Phone Mount w/ Flexible Memory Alloy Arm $15",
@@ -5033,375 +5402,6 @@
       "price": 199.0,
       "published": "Wed, 18 Nov 2026 20:27:04 +0000",
       "seen": "2026-11-18T20:37:15.385735+00:00"
-    },
-    {
-      "title": "ClearSpace 86L Heavy Duty Moving Storage Bag w/ Lids: 8-Pk for $25; 6-Pk for $19.50 + Free S&H",
-      "url": "https://slickdeals.net/f/20317254-6-pack-clearspace-86l-heavy-duty-foldable-moving-storage-bags-w-lids-blue-19-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source": "Slickdeals",
-      "category": "Diğer",
-      "price": 25.0,
-      "published": "Wed, 18 Nov 2026 20:30:32 +0000",
-      "seen": "2026-11-18T20:37:15.385691+00:00"
-    },
-    {
-      "title": "Samsung’s 2TB 990 EVO Plus SSD hits one of its lowest prices since the hikes at $230 off (Today only)",
-      "url": "https://9to5toys.com/2026/11/17/samsung-2tb-990-evo-plus-ssd-hits-one-of-its-lowest-prices-since-the-hikes/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 230.0,
-      "published": "Tue, 17 Nov 2026 12:36:22 +0000",
-      "seen": "2026-11-18T11:49:58.518597+00:00"
-    },
-    {
-      "title": "Google Home Speaker at best price ever is the perfect gift for Android users (All colors now 20% off)",
-      "url": "https://9to5toys.com/2026/11/17/google-home-speaker-deal-best-gift-android-users/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": null,
-      "published": "Tue, 17 Nov 2026 12:37:00 +0000",
-      "seen": "2026-11-18T11:49:58.518571+00:00"
-    },
-    {
-      "title": "Best Buy Week 3 Black Friday now live: Apple, 50% off TVs, 40% off kitchen, home theater, more",
-      "url": "https://9to5toys.com/2026/11/17/best-buy-week-3-black-friday-now-live/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": null,
-      "published": "Tue, 17 Nov 2026 12:53:00 +0000",
-      "seen": "2026-11-18T11:49:58.518554+00:00"
-    },
-    {
-      "title": "HP printers start at just $50 at Best Buy for Black Friday: Save up to $100 on DeskJet, Envy, OfficeJet Pro, and more",
-      "url": "https://9to5toys.com/2026/11/17/hp-printers-start-at-just-50-at-best-buy-for-black-friday-save-up-to-100/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 50.0,
-      "published": "Tue, 17 Nov 2026 13:14:45 +0000",
-      "seen": "2026-11-18T11:49:58.518529+00:00"
-    },
-    {
-      "title": "Bose QuietComfort Headphones: A perfect gift for just about anyone at up to $190 off",
-      "url": "https://9to5toys.com/2026/11/17/bose-quietcomfort-headphones-perfect-gift-anyone/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": 190.0,
-      "published": "Tue, 17 Nov 2026 13:20:17 +0000",
-      "seen": "2026-11-18T11:49:58.518505+00:00"
-    },
-    {
-      "title": "Most affordable 15-inch M5 MacBook Air now $250 off in all colors (Best in several months)",
-      "url": "https://9to5toys.com/2026/11/17/most-affordable-15-inch-m5-macbook-air-black-friday/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": 250.0,
-      "published": "Tue, 17 Nov 2026 13:53:22 +0000",
-      "seen": "2026-11-18T11:49:58.518490+00:00"
-    },
-    {
-      "title": "This tiny 10,000mAh 45W power bank with built-in USB-C cable is only $20 today (50% off)",
-      "url": "https://9to5toys.com/2026/11/17/baseus-picogo-10000mah-45w-power-bank/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 20.0,
-      "published": "Tue, 17 Nov 2026 13:57:48 +0000",
-      "seen": "2026-11-18T11:49:58.518481+00:00"
-    },
-    {
-      "title": "EcoFlow flash sale offers TITAN 5000 Classic power station + 4x 175W rigid solar panels at $2,707 low ($1,588 off), more",
-      "url": "https://9to5toys.com/2026/11/17/ecoflow-flash-sale-titan-5000-classic-power-station-4x-175w-rigid-solar-panels/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 2707.0,
-      "published": "Tue, 17 Nov 2026 14:14:46 +0000",
-      "seen": "2026-11-18T11:49:58.518460+00:00"
-    },
-    {
-      "title": "PlayStation 2026 Black Friday sale rolls on with new all-time lows on Ghost of Yōtei, Wolverine, more from $14",
-      "url": "https://9to5toys.com/2026/11/17/playstation-2026-black-friday-sale-ps5-games/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 14.0,
-      "published": "Tue, 17 Nov 2026 14:17:42 +0000",
-      "seen": "2026-11-18T11:49:58.518434+00:00"
-    },
-    {
-      "title": "Today’s iOS app deals and freebies: Ash of Gods, Moncage, Little Nightmares, more",
-      "url": "https://9to5toys.com/2026/11/17/ios-app-deals-space-menace-2/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": null,
-      "published": "Tue, 17 Nov 2026 14:39:14 +0000",
-      "seen": "2026-11-18T11:49:58.518391+00:00"
-    },
-    {
-      "title": "Hohem’s iSteady M7 AI gimbal with detachable touchscreen hits new $199 all-time low ahead of Black Friday",
-      "url": "https://9to5toys.com/2026/11/17/hohem-isteady-m7-ai-gimbal-with-detachable-touchscreen-remote-all-time-low/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 199.0,
-      "published": "Tue, 17 Nov 2026 14:54:12 +0000",
-      "seen": "2026-11-18T11:49:58.518373+00:00"
-    },
-    {
-      "title": "Hiboy’s beginner-friendly EX6 e-bike offers up to 75-mile travel down at $900 ($200 off), more from $300",
-      "url": "https://9to5toys.com/2026/11/17/hiboy-ex6-e-bike/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 900.0,
-      "published": "Tue, 17 Nov 2026 14:57:07 +0000",
-      "seen": "2026-11-18T11:49:58.518345+00:00"
-    },
-    {
-      "title": "Samsung early Black Friday now live: Fold 8/Ultra $350 off, S26 Ultra $450 off, more",
-      "url": "https://9to5toys.com/2026/11/17/samsung-early-black-friday-live-fold-8-ultra/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 350.0,
-      "published": "Tue, 17 Nov 2026 15:12:45 +0000",
-      "seen": "2026-11-18T11:49:58.518322+00:00"
-    },
-    {
-      "title": "LEGO’s Icons Tropical Aquarium provides oceanic beauty without the upkeep, and it’s down at $430 ($50 off)",
-      "url": "https://9to5toys.com/2026/11/17/lego-icons-tropical-aquarium/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": 430.0,
-      "published": "Tue, 17 Nov 2026 15:22:35 +0000",
-      "seen": "2026-11-18T11:49:58.518301+00:00"
-    },
-    {
-      "title": "GoPro’s latest MAX2 360 camera hits new all-time low ahead of Black Friday at $280 (44% off)",
-      "url": "https://9to5toys.com/2026/11/17/gopro-max2-360-camera-hits-new-all-time-low-ahead-of-black-friday/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 280.0,
-      "published": "Tue, 17 Nov 2026 15:44:28 +0000",
-      "seen": "2026-11-18T11:49:58.518291+00:00"
-    },
-    {
-      "title": "Aiper’s HydroSync upgrades your pool with solar-powered 5-in-1 testing at $280 (Reg. $360)",
-      "url": "https://9to5toys.com/2026/11/17/aiper-hydrosync-solar-5-in-1-testing/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 280.0,
-      "published": "Tue, 17 Nov 2026 15:50:37 +0000",
-      "seen": "2026-11-18T11:49:58.518264+00:00"
-    },
-    {
-      "title": "These striped linen dress shirts are only $7.50 right now (Reg. $20)",
-      "url": "https://9to5toys.com/2026/11/17/alex-vando-striped-linen-dress-shirt/",
-      "source": "9to5Toys",
-      "category": "Giyim",
-      "price": 7.5,
-      "published": "Tue, 17 Nov 2026 16:39:08 +0000",
-      "seen": "2026-11-18T11:49:58.518242+00:00"
-    },
-    {
-      "title": "Top 10 Nike early Black Friday shoes on sale from $32",
-      "url": "https://9to5toys.com/2026/11/17/nike-jordan-low-top-shoes/",
-      "source": "9to5Toys",
-      "category": "Giyim",
-      "price": 32.0,
-      "published": "Tue, 17 Nov 2026 16:39:34 +0000",
-      "seen": "2026-11-18T11:49:58.518229+00:00"
-    },
-    {
-      "title": "Exclusively save up to $240 on Therabody massagers, recovery boots, and depuffing wand at lows starting from $110",
-      "url": "https://9to5toys.com/2026/11/17/therabody-theragun-massage-guns-recovery-boots-depuffing-wand/",
-      "source": "9to5Toys",
-      "category": "Ayakkabı",
-      "price": 240.0,
-      "published": "Tue, 17 Nov 2026 16:40:21 +0000",
-      "seen": "2026-11-18T11:49:58.518214+00:00"
-    },
-    {
-      "title": "Wide selection of plaid button-down shirts starting as low as $7.50 at Amazon",
-      "url": "https://9to5toys.com/2026/11/17/coofandy-plaid-button-down-shirt/",
-      "source": "9to5Toys",
-      "category": "Giyim",
-      "price": 7.5,
-      "published": "Tue, 17 Nov 2026 16:40:51 +0000",
-      "seen": "2026-11-18T11:49:58.518197+00:00"
-    },
-    {
-      "title": "Don’t miss STATIK’s HyperMount MagSafe mount at only $10 Prime shipped (60% off)",
-      "url": "https://9to5toys.com/2026/11/17/statik-hypermount-gen-2-magnetic-mount/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 10.0,
-      "published": "Tue, 17 Nov 2026 16:51:29 +0000",
-      "seen": "2026-11-18T11:49:58.518182+00:00"
-    },
-    {
-      "title": "All-in-one case and 90-degree attachment headline Fanttik’s S2 Pro Max screwdriver set at $60 (Save 38%)",
-      "url": "https://9to5toys.com/2026/11/17/fanttik-s2-pro-max-cordless-screwdriver/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 60.0,
-      "published": "Tue, 17 Nov 2026 16:56:35 +0000",
-      "seen": "2026-11-18T11:49:58.518140+00:00"
-    },
-    {
-      "title": "Satechi’s new MagSafe Wallet with Find My and Google Find Hub debuts today at 25% off",
-      "url": "https://9to5toys.com/2026/11/17/satechi-debut-magsafe-wallet-find-my-google-find-hub/",
-      "source": "9to5Toys",
-      "category": "Çanta / Cüzdan",
-      "price": null,
-      "published": "Tue, 17 Nov 2026 17:00:00 +0000",
-      "seen": "2026-11-18T11:49:58.518115+00:00"
-    },
-    {
-      "title": "Fold-flat 240W USB-C phone stand plunges to just $8 (Save 50%)",
-      "url": "https://9to5toys.com/2026/11/17/jsaux-240w-fold-flat-usb-c-stand/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 8.0,
-      "published": "Tue, 17 Nov 2026 17:03:39 +0000",
-      "seen": "2026-11-18T11:49:58.518094+00:00"
-    },
-    {
-      "title": "Vibrant and affordable Logitech Bluetooth mice fall as low as $10 at Amazon",
-      "url": "https://9to5toys.com/2026/11/17/logitech-m196-wireless-bluetooth-mouse/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 10.0,
-      "published": "Tue, 17 Nov 2026 17:08:36 +0000",
-      "seen": "2026-11-18T11:49:58.518071+00:00"
-    },
-    {
-      "title": "Giant collection of Apple TV movie deals up to 78% off: Goodfellas, Harry Potter, Avatar collection, Dune, more",
-      "url": "https://9to5toys.com/2026/11/17/apple-tv-deals-harry-potter-and-the-chamber-of-secrets/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": null,
-      "published": "Tue, 17 Nov 2026 17:10:39 +0000",
-      "seen": "2026-11-18T11:49:58.518050+00:00"
-    },
-    {
-      "title": "Spacious new 55-inch electric standing desk hits $130",
-      "url": "https://9to5toys.com/2026/11/17/huanuo-electric-standing-desk-55-inch/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 130.0,
-      "published": "Tue, 17 Nov 2026 17:15:54 +0000",
-      "seen": "2026-11-18T11:49:58.518024+00:00"
-    },
-    {
-      "title": "Amazon offers five LEGO Pokémon sets at their best prices for your Xmas shopping – deals start from $40",
-      "url": "https://9to5toys.com/2026/11/17/lego-pokemon-sets-best-prices-from-40/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": 40.0,
-      "published": "Tue, 17 Nov 2026 17:16:56 +0000",
-      "seen": "2026-11-18T11:49:58.518003+00:00"
-    },
-    {
-      "title": "Feature-packed 4-in-1 Fanttik V10 APEX car vacuum drops to $68.50 (Reg. $110)",
-      "url": "https://9to5toys.com/2026/11/17/fanttik-v10-apex-cordless-car-vacuum/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 68.5,
-      "published": "Tue, 17 Nov 2026 17:17:12 +0000",
-      "seen": "2026-11-18T11:49:58.517991+00:00"
-    },
-    {
-      "title": "You can score the latest Blink Mini Alexa smart cam from just $14 right now (60% off), more",
-      "url": "https://9to5toys.com/2026/11/17/latest-blink-mini-alexa-smart-camera/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 14.0,
-      "published": "Tue, 17 Nov 2026 17:42:46 +0000",
-      "seen": "2026-11-18T11:49:58.517970+00:00"
-    },
-    {
-      "title": "Power your 80V Greenworks arsenal with this 4.0Ah Gen2 battery down at a $146 Amazon low (Reg. up to $290)",
-      "url": "https://9to5toys.com/2026/11/17/80v-greenworks-4-0ah-gen2-battery/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 146.0,
-      "published": "Tue, 17 Nov 2026 17:48:43 +0000",
-      "seen": "2026-11-18T11:49:58.517946+00:00"
-    },
-    {
-      "title": "Some users are scoring the latest Galaxy Watch 9 as low as $270 right now ($110 off)",
-      "url": "https://9to5toys.com/2026/11/17/latest-galaxy-watch-9-lowest-price-black-friday/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": 270.0,
-      "published": "Tue, 17 Nov 2026 18:14:59 +0000",
-      "seen": "2026-11-18T11:49:58.517926+00:00"
-    },
-    {
-      "title": "Today’s Android app deals and freebies: Beastie Bay, Human Fall Flat, Sands of Salzaar, more",
-      "url": "https://9to5toys.com/2026/11/17/todays-highlight-google-play-deals-50/",
-      "source": "9to5Toys",
-      "category": "Elektronik",
-      "price": null,
-      "published": "Tue, 17 Nov 2026 18:39:22 +0000",
-      "seen": "2026-11-18T11:49:58.517915+00:00"
-    },
-    {
-      "title": "Samsung’s 27-inch 5K dual-mode Odyssey G8 gaming monitor hits new all-time low at $500 ahead of Black Friday (Save $450)",
-      "url": "https://9to5toys.com/2026/11/17/samsung-27-inch-5k-dual-mode-odyssey-g8-gaming-monitor-new-all-time-low/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 500.0,
-      "published": "Tue, 17 Nov 2026 18:59:14 +0000",
-      "seen": "2026-11-18T11:49:58.517896+00:00"
-    },
-    {
-      "title": "Capture the holidays with Sony’s latest cameras, from the Alpha 6400 to Alpha 7 V at up to $200 off for Black Friday",
-      "url": "https://9to5toys.com/2026/11/17/sony-latest-cameras-up-to-200-off-for-black-friday/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 200.0,
-      "published": "Tue, 17 Nov 2026 19:00:00 +0000",
-      "seen": "2026-11-18T11:49:58.517873+00:00"
-    },
-    {
-      "title": "Microsoft Office Pro Plus for Windows now down at $40 with this early Black Friday deal ($250 value)",
-      "url": "https://9to5toys.com/2026/11/17/microsoft-office-pro-plus-windows-black-friday/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 40.0,
-      "published": "Tue, 17 Nov 2026 19:12:57 +0000",
-      "seen": "2026-11-18T11:49:58.517850+00:00"
-    },
-    {
-      "title": "Amazon’s early Black Friday Nike deals are up to 44% off (deals from $16)",
-      "url": "https://9to5toys.com/2026/11/17/nike-apparel-and-footwear-deals/",
-      "source": "9to5Toys",
-      "category": "Giyim",
-      "price": 16.0,
-      "published": "Tue, 17 Nov 2026 19:27:57 +0000",
-      "seen": "2026-11-18T11:49:58.517829+00:00"
-    },
-    {
-      "title": "Amazon Levi’s early Black Friday sale: Up to 50% off, deals from $9",
-      "url": "https://9to5toys.com/2026/11/17/levis-mens-denim-collection/",
-      "source": "9to5Toys",
-      "category": "Diğer",
-      "price": 9.0,
-      "published": "Tue, 17 Nov 2026 19:55:32 +0000",
-      "seen": "2026-11-18T11:49:58.517813+00:00"
-    },
-    {
-      "title": "Black Friday 2026 deal schedule: Target, Nintendo, Amazon, LEGO, Google, more [Updated]",
-      "url": "https://9to5toys.com/2026/11/17/black-friday-2026-deal-schedule-retailers/",
-      "source": "9to5Toys",
-      "category": "Oyuncak",
-      "price": null,
-      "published": "Tue, 17 Nov 2026 20:02:00 +0000",
-      "seen": "2026-11-18T11:49:58.517789+00:00"
-    },
-    {
-      "title": "Secure Amazon’s deal on new Apple TV 4K before shipping delays get worse",
-      "url": "https://9to5toys.com/2026/11/17/secur-deal-new-apple-tv-4k-before-shipping-delays/",
-      "source": "9to5Toys",
-      "category": "Saat",
-      "price": null,
-      "published": "Tue, 17 Nov 2026 21:07:00 +0000",
-      "seen": "2026-11-18T11:49:58.517744+00:00"
     }
   ]
 }
